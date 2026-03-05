@@ -5,7 +5,6 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 1. What was broken when you started?
 
 - What did the game look like the first time you ran it?
-  
 The first massive bug I noticed when I first played the game was the hints were all backward making the game impossible to win. I also noticed that the attempts that were said on the prompt was one lower than the attempts allowed.
 ---
 
@@ -48,7 +47,6 @@ I would run manual tests by playing the game each time after every fix
   Streamlit “reruns” mean that every time you click a button or change an input, the entire script runs again from top to bottom, like restarting the program instantly.
 
 - What change did you make that finally gave the game a stable secret number?
-  
 I removed the code that converted the secret number to a string on even attempts and made sure it was always compared as an integer, so the comparisons stayed consistent and the secret number remained stable throughout the game.
 ---
 
