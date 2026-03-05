@@ -107,6 +107,7 @@ st.session_state.attempts = 0
 Now the full number of allowed attempts is shown at the start of the game.
 
 ## 📸 Demo
+<img width="955" height="383" alt="Game Glitch Investigator SS" src="https://github.com/user-attachments/assets/388b7d20-e78c-474b-bc22-5be99c88d8be" />
 
 
 
