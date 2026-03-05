@@ -108,7 +108,6 @@ Now the full number of allowed attempts is shown at the start of the game.
 
 ## 📸 Demo
 
-"C:\Users\amaso\OneDrive\Pictures\Camera Roll\Game Glitch Investigator SS.png"
 
 
 ## 🚀 Stretch Features
